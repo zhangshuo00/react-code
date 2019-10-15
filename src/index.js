@@ -3,10 +3,20 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import {ShowTime} from './node_one';//引入外部文件
 import Todolist from './Todolist/Todolist';
-import Request from './Request'
+import Request from './Request';
+import Parent from './Context/Parent';
+import {con} from './Context/Context';
+import Hoc from './Hoc/Hoc'
 
 // ReactDOM.render(<Todolist/>,document.getElementById('root'));
-ReactDOM.render(<Request/>,document.getElementById('root'));
+// ReactDOM.render(<Request/>,document.getElementById('root'));
+let color = 'red';
+ReactDOM.render(
+    // <con.Provider value={color}>
+    //     <Parent/>
+    // </con.Provider>
+    <Hoc/>
+    ,document.getElementById('root'));
 
 
 // ReactDOM.render(<ShowTime word='react'/>,document.getElementById('root'));
