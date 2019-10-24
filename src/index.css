@@ -5,14 +5,40 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
 
+}
+ul li{
+  list-style-type: none;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-/* #root{
+.itemBox{
+  margin-left: 300px;
+  margin-top: 40px;
+}
+.item{
+  background-color: #ddd;
   width: 500px;
-  height: 500px;
-  background-color: aquamarine;
-} */
+  height: 40px;
+  margin-top: 15px;
+  font-size: 20px;
+}
+.btn{
+  border-radius: 5px;
+  border:2px solid white;
+  float: right;
+  margin-top: 5px;
+  margin-right: 20px;
+  height: 30px;
+  width: 80px;
+}
+.add{
+  float: right;
+  height: 30px;
+  margin-right: 400px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
