@@ -15,10 +15,16 @@ export default class Todolist extends Component {
     componentWillMount(){
         var todo = JSON.parse(localStorage.getItem('todo'));
         var done = JSON.parse(localStorage.getItem('done'));
-        this.setState({
-            todo:todo,
-            done:done
-        })
+        if(todo){
+            this.setState({
+                todo:todo
+            })
+        }
+        if(done){
+            this.setState({
+                done:done
+            })
+        }
     }
     componentDidUpdate(){
         localStorage.setItem('todo',JSON.stringify(this.state.todo));

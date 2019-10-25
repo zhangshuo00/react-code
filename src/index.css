@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
+  background-color: #cdcdcd;
 }
 ul li{
   list-style-type: none;
@@ -19,7 +19,8 @@ code {
   margin-top: 40px;
 }
 .item{
-  background-color: #ddd;
+  background-color: white;
+  border-radius: 10px;
   width: 500px;
   height: 40px;
   margin-top: 15px;
