@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.49687bc8.chunk.css",
+    "main.js": "./static/js/main.3be45949.chunk.js",
+    "main.js.map": "./static/js/main.3be45949.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3a5a28a7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3a5a28a7.js.map",
+    "static/css/2.edbb2012.chunk.css": "./static/css/2.edbb2012.chunk.css",
+    "static/js/2.06da985a.chunk.js": "./static/js/2.06da985a.chunk.js",
+    "static/js/2.06da985a.chunk.js.map": "./static/js/2.06da985a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.0af6fa3441843e4b38a89f64bc303d74.js": "./precache-manifest.0af6fa3441843e4b38a89f64bc303d74.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.edbb2012.chunk.css.map": "./static/css/2.edbb2012.chunk.css.map",
+    "static/css/main.49687bc8.chunk.css.map": "./static/css/main.49687bc8.chunk.css.map",
+    "static/media/home_0_08.jpg": "./static/media/home_0_08.0cd5542b.jpg",
+    "static/media/home_banner1_02.jpg": "./static/media/home_banner1_02.24cd1c5e.jpg",
+    "static/media/home_banner_02.jpg": "./static/media/home_banner_02.8f9d7d18.jpg",
+    "static/media/home_hot_03.jpg": "./static/media/home_hot_03.d96af9bb.jpg",
+    "static/media/home_personal_03.jpg": "./static/media/home_personal_03.5b3de2db.jpg",
+    "static/media/index.css": "./static/media/linggan1.8e0303d6.jpg",
+    "static/media/lock.png": "./static/media/lock.bb2cec23.png",
+    "static/media/my_banner.jpg": "./static/media/my_banner.91da3157.jpg",
+    "static/media/my_head_05.jpg": "./static/media/my_head_05.a11733b0.jpg",
+    "static/media/shop_banner_02.jpg": "./static/media/shop_banner_02.fd2922c3.jpg",
+    "static/media/shop_black_03.jpg": "./static/media/shop_black_03.85e77465.jpg",
+    "static/media/shop_cup_03.jpg": "./static/media/shop_cup_03.450acc32.jpg",
+    "static/media/tishi.png": "./static/media/tishi.31d8ac51.png",
+    "static/media/wechat-fill.png": "./static/media/wechat-fill.9f56fe83.png",
+    "static/media/weibo-line.png": "./static/media/weibo-line.b7b40868.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a5a28a7.js",
+    "static/css/2.edbb2012.chunk.css",
+    "static/js/2.06da985a.chunk.js",
+    "static/css/main.49687bc8.chunk.css",
+    "static/js/main.3be45949.chunk.js"
+  ]
+}
