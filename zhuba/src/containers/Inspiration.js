@@ -25,33 +25,53 @@ export default class Inspiration extends Component {
                         <div style={{display:'flex',marginBottom:'10px'}}>
                             <div style={{marginLeft:'20px'}}>
                                 <img style={{width:'150px'}} src={require('../images/linggan1.jpg')}/>
-                                <div>橙色律动</div>
+                                <div>
+                                    <img style={{width:'30px'}} src={require('../images/linggan_head_03.jpg')}/>
+                                    橙色律动
+                                    <img style={{width:'15px',float:'right'}} src={require('../images/linggan_love_06.jpg')}/></div>
                             </div>
                             <div style={{marginLeft:'20px'}}>
                                 <img style={{width:'150px'}} src={require('../images/linggan1.jpg')}/>
-                                <div>橙色律动</div>
+                                <div>
+                                    <img style={{width:'30px'}} src={require('../images/linggan_head_03.jpg')}/>
+                                    橙色律动
+                                    <img style={{width:'15px',float:'right'}} src={require('../images/linggan_love_06.jpg')}/></div>
                             </div>
                         </div>
                         <div style={{display:'flex',marginBottom:'10px'}}>
                             <div style={{marginLeft:'20px'}}>
                                 <img style={{width:'150px'}} src={require('../images/linggan1.jpg')}/>
-                                <div>橙色律动</div>
+                                <div>
+                                    <img style={{width:'30px'}} src={require('../images/linggan_head_03.jpg')}/>
+                                    橙色律动
+                                    <img style={{width:'15px',float:'right'}} src={require('../images/linggan_love_06.jpg')}/></div>
                             </div>
                             <div style={{marginLeft:'20px'}}>
                                 <img style={{width:'150px'}} src={require('../images/linggan1.jpg')}/>
-                                <div>橙色律动</div>
+                                <div>
+                                    <img style={{width:'30px'}} src={require('../images/linggan_head_03.jpg')}/>
+                                    橙色律动
+                                    <img style={{width:'15px',float:'right'}} src={require('../images/linggan_love_06.jpg')}/></div>
                             </div>
                         </div>
                         <div style={{display:'flex',marginBottom:'10px'}}>
                             <div style={{marginLeft:'20px'}}>
                                 <img style={{width:'150px'}} src={require('../images/linggan1.jpg')}/>
-                                <div>橙色律动</div>
+                                <div>
+                                    <img style={{width:'30px'}} src={require('../images/linggan_head_03.jpg')}/>
+                                    橙色律动
+                                    <img style={{width:'15px',float:'right'}} src={require('../images/linggan_love_06.jpg')}/></div>
                             </div>
                             <div style={{marginLeft:'20px'}}>
                                 <img style={{width:'150px'}} src={require('../images/linggan1.jpg')}/>
-                                <div>橙色律动</div>
+                                <div>
+                                    <img style={{width:'30px'}} src={require('../images/linggan_head_03.jpg')}/>
+                                    橙色律动
+                                    <img style={{width:'15px',float:'right'}} src={require('../images/linggan_love_06.jpg')}/></div>
                             </div>
                         </div>
+
+
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '150px', backgroundColor: '#fff' }}>
                         冬季

@@ -1,13 +1,10 @@
 import React, { Component } from 'react'
 import { NavBar,Icon,SearchBar,Carousel,Grid,WhiteSpace } from 'antd-mobile'
 
-// var name = {
-//     text:['桌','床','椅','几','柜','书架','沙发','家具饰品','户外家具','全部分类'],
-//     icon:'https://gw.alipayobjects.com/zos/rmsportal/nywPmnTAvTmLusPxHPSu.png'
-// };
-const data = Array.from(new Array(10)).map((_val, i) => ({
+var name = ['桌','床','椅','几','柜','书架','沙发','家具饰品','户外家具','全部分类'];
+const data = name.map((_val, i) => ({
     icon: require('../images/shop_icon_05.jpg'),
-    text: `name${i}`,
+    text: name[i],
   }));
 export default class Shop extends Component {
     state = {
